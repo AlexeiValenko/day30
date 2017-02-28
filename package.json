@@ -1,0 +1,29 @@
+{
+  "name": "day30",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexeiValenko/day30.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexeiValenko/day30/issues"
+  },
+  "homepage": "https://github.com/AlexeiValenko/day30#readme",
+  "devDependencies": {
+    "@types/jquery": "^2.0.40",
+    "typescript": "^2.2.1"
+  },
+  "dependencies": {
+    "@types/angular": "^1.6.6",
+    "angular": "^1.6.2",
+    "jquery": "^3.1.1",
+    "systemjs": "^0.20.9"
+  }
+}
